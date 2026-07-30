@@ -257,32 +257,7 @@ These were combined to build measures such as average billing per condition, dyn
 
 ---
 
-## Installation
 
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/your-username/Healthcare_Analytics.git
-cd Healthcare_Analytics
-```
-
-**2. Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-**3. Run the notebooks**
-
-```bash
-jupyter notebook Python/01_Data_Understanding.ipynb
-```
-
-Run the notebooks in order, from 01 through 04, to reproduce the full analysis.
-
-**4. Open the Power BI dashboard**
-
-Open `PowerBI/Healthcare_Analytics.pbix` in Power BI Desktop. If prompted, refresh the data source to point it to your local file paths.
 
 ---
 
@@ -304,5 +279,5 @@ openpyxl
 
 **Prajwal Naik**
 
-GitHub: [github.com/prajwalnaik98](https://github.com/prajwalnaik98)
+GitHub: [github.com/prajwalnaik98](https://github.com/prajwalnaik98)<br>
 LinkedIn: [linkedin.com/in/prajwal-naik-9362b0327](https://www.linkedin.com/in/prajwal-naik-9362b0327)
