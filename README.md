@@ -233,7 +233,6 @@ These were combined to build measures such as average billing per condition, dyn
 **Power BI Dashboard**
 
 ![Power BI Dashboard](Screenshots/powerbi_dashboard.png)
-![Power BI Dashboard](Screenshots/powerbi_dashboard2.png)
 
 **Excel Dashboard**
 
